@@ -7,7 +7,7 @@ You will virtualize several Docker images, creating them on your new personal vi
 
 <img width="494" alt="Screen_Shot_2022-11-24_at_8 29 31_PM" src="https://github.com/Eozdur/Inception-42/assets/101213607/5419d2a9-9972-4ab8-aa61-a856a4c4e811">
 
-# My Notes
+# Project Notes
 
 https://miro.com/app/board/uXjVKJML7ig=/?share_link_id=922069887906
 
