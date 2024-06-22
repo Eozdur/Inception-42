@@ -1,4 +1,4 @@
-# INCEPTION
+# Inception
 
 This project aims to broaden your knowledge of system administration by using Docker.
 You will virtualize several Docker images, creating them on your new personal virtual machine.
